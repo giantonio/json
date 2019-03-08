@@ -1,5 +1,4 @@
-{
-	"deportistas": [{
+[{
 			"id": "1",
 			"name": "Antoine Griezmann",
 			"deporte": "fútbol",
@@ -150,4 +149,3 @@
 			}]
 		}
 	]
-}
